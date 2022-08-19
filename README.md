@@ -1,3 +1,3 @@
 # Verilog
-Verilog Code
+Verilog Code for miniprojects
 
